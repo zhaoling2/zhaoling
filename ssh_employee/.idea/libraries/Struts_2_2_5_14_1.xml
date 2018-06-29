@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Struts 2-2.5.14.1" type="struts2">
+    <properties version="2.5.14.1" />
+    <CLASSES>
+      <root url="jar://D:/作业/lib/commons-fileupload.jar!/" />
+      <root url="jar://D:/作业/lib/ognl.jar!/" />
+      <root url="jar://D:/作业/lib/commons-io.jar!/" />
+      <root url="jar://D:/作业/lib/log4j.jar!/" />
+      <root url="jar://D:/作业/lib/commons-lang.jar!/" />
+      <root url="jar://D:/作业/lib/freemarker.jar!/" />
+      <root url="jar://D:/作业/lib/struts2-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
